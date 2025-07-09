@@ -1,17 +1,20 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+Hi, welcome to my website!
+I am Hanxi Wang, a Ph.D. candidate from Department of Economics, The Chinese University of Hong Kong.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: wanghanxi[at]link.cuhk.edu.hk\
+Address: 1017 Esther Lee Building, The Chinese University of Hong Kong, Shatin, Hong Kong
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Ph.D., Economics, The Chinese University of Hong Kong, 2021—2026.\
+B.E., Economics, Lingnan College Sun Yat-Sen University, 2017—2021.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+International Trade
 
+[[Google Scholar]](https://scholar.google.com.hk/citations?view_op=list_works&hl=zh-CN&user=x2QtFMgAAAAJ&gmla=AETOMgGDd6KAT6rKgGn6RhySV8Up-Hj2u6dtOvml_ebPKvsTKiNbqfkeDrkDxeBO04VpJyslEV3PzL4DsDHa2zhcOE7hsBEOnlSToATxLOlWlKXkS1GgrKc)
+
+[[CV]](https://www.dropbox.com/scl/fi/v76uk2vuz69e5er2by29w/Hanxi-Wang_CV.pdf?rlkey=9lfvr7lj6cf5fn58co70evty5&st=i6my4s3c&dl=0)
