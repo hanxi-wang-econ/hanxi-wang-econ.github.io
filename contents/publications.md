@@ -15,7 +15,7 @@ Presented at International Conference on US-China Trade Disputs and Rearchitectu
 
 Presented at Graduate student forum of Research Institute for Global Value Chains UIBE 2021
 
-- Xiaodong Lu and Hanxi Wang (2024). When Protectionism Meets Global Value Chains:Evidence from China (In Chinese). <strong>International Economics and Trade Research<strong>
+- Xiaodong Lu and Hanxi Wang (2024). When Protectionism Meets Global Value Chains:Evidence from China (In Chinese). <strong>International Economics and Trade Research</strong>
 
 
 
