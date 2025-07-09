@@ -1,6 +1,6 @@
 
 
-I am Hanxi Wang, a Ph.D. candidate from Department of Economics, The Chinese University of Hong Kong.
+Welcome to my website! I am Hanxi Wang, a Ph.D. candidate from Department of Economics, The Chinese University of Hong Kong.
 
 #### Contact
 
