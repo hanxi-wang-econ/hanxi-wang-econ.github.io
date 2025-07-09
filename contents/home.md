@@ -4,7 +4,7 @@ Welcome to my website! I am Hanxi Wang, a Ph.D. candidate from Department of Eco
 
 #### Contact
 
-Email: wanghanxi[at]link.cuhk.edu.hk\
+Email: wanghanxi@link.cuhk.edu.hk\
 Address: 1017 Esther Lee Building, The Chinese University of Hong Kong, Shatin, Hong Kong
 
 #### Education
