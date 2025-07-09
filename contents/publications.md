@@ -4,6 +4,7 @@
 
 Presented at CUHK Economics Department Alumni Academic Conference 2025
 
+\
 
 #### Published
 
@@ -11,9 +12,13 @@ Presented at CUHK Economics Department Alumni Academic Conference 2025
 
 Presented at International Conference on US-China Trade Disputs and Rearchitecture in Globalization 2024, China International Conference in Macroeconomics 2024, CUHK Brownbag Seminar 2024
 
+\
+
 - Chenxue Hou, Hanxi Wang and Chaoqun Zhan (2023). Does Belt and Road Initiative Attract Cross-border M&As from Other Countries? <strong>The World Economy</strong>. [[Paper]](https://onlinelibrary.wiley.com/doi/full/10.1111/twec.13489)
 
 Presented at Graduate student forum of Research Institute for Global Value Chains UIBE 2021
+
+\
 
 - Xiaodong Lu and Hanxi Wang (2024). When Protectionism Meets Global Value Chains:Evidence from China (In Chinese). <strong>International Economics and Trade Research</strong>
 
