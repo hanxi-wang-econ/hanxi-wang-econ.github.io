@@ -10,7 +10,7 @@ Address: 1017 Esther Lee Building, The Chinese University of Hong Kong, Shatin, 
 
 #### Education
 Ph.D., Economics, The Chinese University of Hong Kong, 2021—2026.\
-B.E., Economics, Lingnan College Sun Yat-Sen University, 2017—2021.
+B.A., Economics, Lingnan College Sun Yat-Sen University, 2017—2021.
 
 #### Research Interests
 International Trade
