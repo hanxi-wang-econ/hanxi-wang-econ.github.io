@@ -1,6 +1,6 @@
 #### Working Papers
 
-- Yan Bai, Dan Lu and Hanxi Wang. Optimal Trade Policies and Labor Markets. <strong>[[Paper]](https://www.dropbox.com/scl/fi/y0adc0274lnr6gvq8z4dp/draft_tradepolicy_BLW.pdf?rlkey=zlevbeq9l3dhpoxyeedtnejiw&e=1&st=n2tlx4s0&dl=0)<strong>
+- Yan Bai, Dan Lu and Hanxi Wang. Optimal Trade Policies and Labor Markets. [[Paper]](https://www.dropbox.com/scl/fi/y0adc0274lnr6gvq8z4dp/draft_tradepolicy_BLW.pdf?rlkey=zlevbeq9l3dhpoxyeedtnejiw&e=1&st=n2tlx4s0&dl=0)
 
 Presented at CUHK Economics Department Alumni Academic Conference 2025
 
@@ -15,7 +15,7 @@ Presented at International Conference on US-China Trade Disputs and Rearchitectu
 
 Presented at Graduate student forum of Research Institute for Global Value Chains UIBE 2021
 
-- Xiaodong Lu and Hanxi Wang (2024). When Protectionism Meets Global Value Chains:Evidence from China (In Chinese). <strong>International Economics and Trade Research
+- Xiaodong Lu and Hanxi Wang (2024). When Protectionism Meets Global Value Chains:Evidence from China (In Chinese). <strong>International Economics and Trade Research<strong>
 
 
 
