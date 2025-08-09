@@ -2,7 +2,7 @@
 
 - Yan Bai, Dan Lu and Hanxi Wang. Optimal Trade Policies and Labor Markets. [[Paper]](https://www.dropbox.com/scl/fi/y0adc0274lnr6gvq8z4dp/draft_tradepolicy_BLW.pdf?rlkey=zlevbeq9l3dhpoxyeedtnejiw&e=1&st=n2tlx4s0&dl=0)
 
-Presented at CUHK Economics Department Alumni Academic Conference 2025, Journal of International Economics Summer School Poster Session 2025
+Presented at CUHK Economics Department Alumni Academic Conference 2025, Journal of International Economics Summer School Poster Session 2025, CHUK-Tsinghua Macroeconomic Workshop 2025
 
 <br><br>
 
