@@ -8,7 +8,7 @@ Presented at CUHK Economics Department Alumni Academic Conference 2025, Journal 
 
 #### Publications
 
-- Optimal Trade Policy with International Technology Diffusion, with [Yan Bai](https://sites.google.com/site/yanbai06/home), [Keyu Jin](https://www.google.com/url?q=https%3A%2F%2Fpersonal.lse.ac.uk%2Fjink%2Findex.html&sa=D), [Dan Lu](https://sites.google.com/site/danluecon/home)(2025).  <strong>Journal of International Economics</strong>. [[Paper]](https://www.sciencedirect.com/science/article/pii/S002219962400165X)
+- Optimal Trade Policy with International Technology Diffusion, with [Yan Bai](https://sites.google.com/site/yanbai06/home), [Keyu Jin](https://www.keyujin.com/), [Dan Lu](https://sites.google.com/site/danluecon/home)(2025).  <strong>Journal of International Economics</strong>. [[Paper]](https://www.sciencedirect.com/science/article/pii/S002219962400165X)
 
 Presented at International Conference on US-China Trade Disputs and Rearchitecture in Globalization 2024, China International Conference in Macroeconomics 2024, CUHK Brownbag Seminar 2024
 
