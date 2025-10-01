@@ -14,7 +14,7 @@ Presented at International Conference on US-China Trade Disputs and Rearchitectu
 
 <br>
 
-- Does Belt and Road Initiative Attract Cross-border M&As from Other Countries?, with Chenxue Hou, [Chaoqun Zhan](https://www.google.com/url?q=https%3A%2F%2Fchaoqunzhan.weebly.com%2F&sa=D) (2023).  <strong>The World Economy</strong>. [[Paper]](https://onlinelibrary.wiley.com/doi/full/10.1111/twec.13489)
+- Does Belt and Road Initiative Attract Cross-border M&As from Other Countries?, with Chenxue Hou, [Chaoqun Zhan](https://scholars.hkbu.edu.hk/en/persons/CQZHAN) (2023).  <strong>The World Economy</strong>. [[Paper]](https://onlinelibrary.wiley.com/doi/full/10.1111/twec.13489)
 
 Presented at Graduate student forum of Research Institute for Global Value Chains UIBE 2021
 
