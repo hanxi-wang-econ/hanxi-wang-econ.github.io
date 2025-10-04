@@ -1,6 +1,6 @@
 #### Working Papers
 
-- Optimal Trade Policies and Labor Markets, with [Yan Bai](https://sites.google.com/site/yanbai06/home), [Dan Lu](https://sites.google.com/site/danluecon/home).  [[Paper]](https://www.dropbox.com/scl/fi/y0adc0274lnr6gvq8z4dp/draft_tradepolicy_BLW.pdf?rlkey=zlevbeq9l3dhpoxyeedtnejiw&e=1&st=n2tlx4s0&dl=0)
+- Optimal Trade Policies and Market Power in General Equilibrium Trade Models, with [Yan Bai](https://sites.google.com/site/yanbai06/home), [Dan Lu](https://sites.google.com/site/danluecon/home).  [[Paper]](https://www.dropbox.com/scl/fi/b3gdlu8uufr7r0l6pvamx/trade_policy_Oct2025.pdf?rlkey=9pzwn7ltlws9sfp9onjruirp1&e=1&st=9t4yxtm4&dl=0)
 
 Presented at CUHK Economics Department Alumni Academic Conference 2025, Journal of International Economics Summer School Poster Session 2025, CHUK-Tsinghua Macroeconomic Workshop 2025
 
