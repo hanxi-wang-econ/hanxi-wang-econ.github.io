@@ -7,6 +7,7 @@ Presented at CUHK Economics Department Alumni Academic Conference 2025, Journal 
 <strong>Abstract:</strong> We derive optimal trade policies in a multi-country, multi-sector general-equilibrium model that unifies a wide range of supply-side assumptions. Under our CES supply system, which nests most existing specifications, two-country optimal tariffs and export taxes across sectors depend only on elasticity parameters and relative market shares. With multiple countries, country and sector interdependencies---due to the cross-country trade network---make optimal tariffs imposed by the home country differ across countries and sectors while converging within sectors. Only when foreign countries do not trade with each other do the home country's optimal policies depend solely on bilateral trade. Using trade data, we quantify optimal policies and find that ignoring interdependencies can lead to substantially lower welfare gains for the home country.
 
 <br>
+
 - Optimal Trade Policies and Labor Markets, with [Yan Bai](https://sites.google.com/site/yanbai06/home), [Dan Lu](https://sites.google.com/site/danluecon/home). [[Paper]](https://www.dropbox.com/scl/fi/ku45smphbe91nqm5x0pmu/draft_tradepolicy_Aug2024.pdf?rlkey=gudyxvtqsj5i0apqfowtdusyk&e=1&dl=0)
 
 <br><br>
