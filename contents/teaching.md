@@ -1,6 +1,4 @@
-#### Teaching
-
-Teaching Assistant
+#### Teaching Assistant
 
 - The Chinese University of Hong Kong\
 GLEF 3020: Global and Regional Economic Integration\
