@@ -1,6 +1,7 @@
 
 
-Welcome to my website! I am Hanxi Wang, a Ph.D. candidate from Department of Economics, The Chinese University of Hong Kong.
+Welcome to my website! I am Hanxi Wang, a Ph.D. candidate from Department of Economics, The Chinese University of Hong Kong.\
+I will be on the 2025-26 job market.
 
 #### Contact
 
