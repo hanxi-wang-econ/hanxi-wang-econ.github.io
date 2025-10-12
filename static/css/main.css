@@ -92,7 +92,7 @@ section .main-body{
     position: relative;
     height: 0;
     /*top:min(-65px,max(-100px,calc(-1*100vw/12)));*/
-    top:150px;
+    top:250px;
     max-width: 55em;
     margin: 0 1.5rem 0 0;
     float: right;
