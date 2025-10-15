@@ -15,8 +15,7 @@ B.A., Economics, Lingnan College Sun Yat-Sen University, 2017—2021.
 #### Research Interests
 International Trade
 
-Download my [[CV]](https://www.dropbox.com/scl/fi/v76uk2vuz69e5er2by29w/Hanxi-Wang_CV.pdf?rlkey=9lfvr7lj6cf5fn58co70evty5&st=i6my4s3c&dl=0) [[CV]](https://raw.githubusercontent.com/hanxi-wang-econ/hanxi-wang-econ.github.io/main/Hanxi%20Wang_CV.pdf) [[CV]](https://hanxi-wang-econ.github.io
-/Hanxi%20Wang_CV.pdf)
+Download my [[CV]](https://www.dropbox.com/scl/fi/v76uk2vuz69e5er2by29w/Hanxi-Wang_CV.pdf?rlkey=9lfvr7lj6cf5fn58co70evty5&st=i6my4s3c&dl=0) [[CV]](https://raw.githubusercontent.com/hanxi-wang-econ/hanxi-wang-econ.github.io/main/Hanxi%20Wang_CV.pdf)
 
 [[Google Scholar]](https://scholar.google.com.hk/citations?view_op=list_works&hl=zh-CN&user=x2QtFMgAAAAJ&gmla=AETOMgGDd6KAT6rKgGn6RhySV8Up-Hj2u6dtOvml_ebPKvsTKiNbqfkeDrkDxeBO04VpJyslEV3PzL4DsDHa2zhcOE7hsBEOnlSToATxLOlWlKXkS1GgrKc)
 
