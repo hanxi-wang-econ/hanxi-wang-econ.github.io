@@ -1,6 +1,6 @@
 #### Working Papers
 
-- [Optimal Trade Policies and Market Power in General Equilibrium Trade Models](https://hanxi-wang-econ.github.io/trade_policy_BLW), with [Yan Bai](https://sites.google.com/site/yanbai06/home), [Dan Lu](https://sites.google.com/site/danluecon/home). ***Job Market Paper***. [[NBER]](https://www.nber.org/papers/w34358) 
+- [Optimal Trade Policies and Market Power in General Equilibrium Trade Models](https://hanxi-wang-econ.github.io/trade_policy_BLW.pdf), with [Yan Bai](https://sites.google.com/site/yanbai06/home), [Dan Lu](https://sites.google.com/site/danluecon/home). ***Job Market Paper***. [[NBER]](https://www.nber.org/papers/w34358) 
 
     - <small>Presented at CUHK Economics Department Alumni Academic Conference 2025, Journal of International Economics Summer School Poster Session 2025, CHUK-Tsinghua Macroeconomic Workshop 2025</small>
 
@@ -8,7 +8,7 @@
 
 <br>
 
-- [Optimal Trade Policies and Labor Markets](https://www.dropbox.com/scl/fi/ku45smphbe91nqm5x0pmu/draft_tradepolicy_Aug2024.pdf?rlkey=gudyxvtqsj5i0apqfowtdusyk&e=1&dl=0), with [Yan Bai](https://sites.google.com/site/yanbai06/home), [Dan Lu](https://sites.google.com/site/danluecon/home). [[NBER]](https://www.nber.org/papers/w32919)
+- [Optimal Trade Policies and Labor Markets](https://hanxi-wang-econ.github.io/draft_tradepolicy_BLW.pdf), with [Yan Bai](https://sites.google.com/site/yanbai06/home), [Dan Lu](https://sites.google.com/site/danluecon/home). [[NBER]](https://www.nber.org/papers/w32919)
 
 <br><br>
 
