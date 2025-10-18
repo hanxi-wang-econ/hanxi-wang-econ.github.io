@@ -1,6 +1,6 @@
 #### Working Papers
 
-- [Optimal Trade Policies and Market Power in General Equilibrium Trade Models](https://hanxi-wang-econ.github.io/trade_policy_BLW.pdf), with [Yan Bai](https://sites.google.com/site/yanbai06/home), [Dan Lu](https://sites.google.com/site/danluecon/home). ***Job Market Paper***. [[NBER]](https://www.nber.org/papers/w34358) 
+- **Optimal Trade Policies and Market Power in General Equilibrium Trade Models**, with [Yan Bai](https://sites.google.com/site/yanbai06/home), [Dan Lu](https://sites.google.com/site/danluecon/home). ***Job Market Paper***. [[PDF]](https://hanxi-wang-econ.github.io/trade_policy_BLW.pdf) [[NBER]](https://www.nber.org/papers/w34358) 
 
     - <small>Presented at CUHK Economics Department Alumni Academic Conference 2025, Journal of International Economics Summer School Poster Session 2025, CHUK-Tsinghua Macroeconomic Workshop 2025</small>
 
@@ -8,25 +8,25 @@
 
 <br>
 
-- [Optimal Trade Policies and Labor Markets](https://hanxi-wang-econ.github.io/draft_tradepolicy_BLW.pdf), with [Yan Bai](https://sites.google.com/site/yanbai06/home), [Dan Lu](https://sites.google.com/site/danluecon/home). [[NBER]](https://www.nber.org/papers/w32919)
+- **Optimal Trade Policies and Labor Markets**, with [Yan Bai](https://sites.google.com/site/yanbai06/home), [Dan Lu](https://sites.google.com/site/danluecon/home). [[PDF]](https://hanxi-wang-econ.github.io/draft_tradepolicy_BLW.pdf) [[NBER]](https://www.nber.org/papers/w32919)
 
 <br><br>
 
 #### Publications
 
-- [Optimal Trade Policy with International Technology Diffusion](https://www.sciencedirect.com/science/article/pii/S002219962400165X), with [Yan Bai](https://sites.google.com/site/yanbai06/home), [Keyu Jin](https://www.keyujin.com/), [Dan Lu](https://sites.google.com/site/danluecon/home)(2025).  ***Journal of International Economics***. 
+- **Optimal Trade Policy with International Technology Diffusion**, with [Yan Bai](https://sites.google.com/site/yanbai06/home), [Keyu Jin](https://www.keyujin.com/), [Dan Lu](https://sites.google.com/site/danluecon/home)(2025).  ***Journal of International Economics***. [[PDF]](https://hanxi-wang-econ.github.io/diffusion_main.pdf) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4724149)
 
     - <small>Presented at International Conference on US-China Trade Disputs and Rearchitecture in Globalization 2024, China International Conference in Macroeconomics 2024, CUHK Brownbag Seminar 2024</small>
 
 <br>
 
-- [Does Belt and Road Initiative Attract Cross-border M&As from Other Countries?](https://onlinelibrary.wiley.com/doi/full/10.1111/twec.13489), with Chenxue Hou, [Chaoqun Zhan](https://scholars.hkbu.edu.hk/en/persons/CQZHAN) (2023).  ***The World Economy***. 
+- **Does Belt and Road Initiative Attract Cross-border M&As from Other Countries?**, with Chenxue Hou, [Chaoqun Zhan](https://scholars.hkbu.edu.hk/en/persons/CQZHAN) (2023).  ***The World Economy***. [[PDF]](https://hanxi-wang-econ.github.io/BRI.pdf)
 
     - <small>Presented at Graduate student forum of Research Institute for Global Value Chains UIBE 2021</small>
 
 <br>
 
-- When Protectionism Meets Global Value Chains: Evidence from China (In Chinese), with [Xiaodong Lu](https://lingnan.sysu.edu.cn/en/faculty/LuXiaodong)(2025).  ***International Economics and Trade Research***.
+- **When Protectionism Meets Global Value Chains: Evidence from China** (In Chinese), with [Xiaodong Lu](https://lingnan.sysu.edu.cn/en/faculty/LuXiaodong)(2025).  ***International Economics and Trade Research***.
 
 
 
