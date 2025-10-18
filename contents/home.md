@@ -13,7 +13,7 @@ Ph.D., Economics, The Chinese University of Hong Kong, 2021—2026.\
 B.A., Economics, Lingnan College Sun Yat-Sen University, 2017—2021.
 
 #### Research Interests
-International Trade
+International Trade, Optimal Trade Policy
 
 Download my [[CV]](https://hanxi-wang-econ.github.io/Hanxi%20Wang_CV.pdf)
 
