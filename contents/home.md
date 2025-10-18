@@ -1,11 +1,11 @@
 
 
-Welcome to my website! I am Hanxi Wang (王晗希), a Ph.D. candidate from Department of Economics, The Chinese University of Hong Kong.\
+Welcome to my website! I am Hanxi Wang (王晗希), a Ph.D. candidate from [Department of Economics, The Chinese University of Hong Kong](https://www.econ.cuhk.edu.hk/en/home/).\
 I am on the 2025-26 academic job market.
 
 #### Education
 Ph.D., Economics, The Chinese University of Hong Kong, 2021—2026.\
-B.A., Economics, Lingnan College Sun Yat-Sen University, 2017—2021.
+B.A., Economics, [Lingnan College Sun Yat-Sen University](https://lingnan.sysu.edu.cn/en), 2017—2021.
 
 #### Research Interests
 International Trade, Optimal Trade Policy
