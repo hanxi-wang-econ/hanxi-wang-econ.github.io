@@ -27,7 +27,7 @@
 <br>
 
 - **When Protectionism Meets Global Value Chains: Evidence from China** (In Chinese), with [Xiaodong Lu](https://lingnan.sysu.edu.cn/en/faculty/LuXiaodong)(2025).  ***International Economics and Trade Research***.\
-**当贸易保护遭遇全球价值链：中国的经验证据**，合作者：[鲁晓东](https://lingnan.sysu.edu.cn/faculty/LuXiaodong)，***国际经贸探索***
+**当贸易保护遭遇全球价值链：中国的经验证据**，合作者：[鲁晓东](https://lingnan.sysu.edu.cn/faculty/LuXiaodong)(2025).***国际经贸探索***
 
 
 
