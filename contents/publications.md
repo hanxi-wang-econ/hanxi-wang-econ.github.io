@@ -20,7 +20,7 @@
 
 <br>
 
-- **Does Belt and Road Initiative Attract Cross-border M&As from Other Countries?**, with Chenxue Hou, [Chaoqun Zhan](https://scholars.hkbu.edu.hk/en/persons/CQZHAN) (2023).  ***The World Economy***. [[PDF]](https://hanxi-wang-econ.github.io/BRI.pdf)
+- **Does Belt and Road Initiative Attract Cross-border M&As from Other Countries?**, with Chenxue Hou, [Chaoqun Zhan](https://scholars.hkbu.edu.hk/en/persons/CQZHAN) (2024).  ***The World Economy***. [[PDF]](https://hanxi-wang-econ.github.io/BRI.pdf)
 
     - <small>Presented at Graduate student forum of Research Institute for Global Value Chains UIBE 2021</small>
 
