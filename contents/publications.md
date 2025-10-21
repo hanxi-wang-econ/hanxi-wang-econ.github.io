@@ -1,7 +1,8 @@
 #### Working Papers
 
-- **Optimal Trade Policies and Market Power in General Equilibrium Trade Models**, with [Yan Bai](https://sites.google.com/site/yanbai06/home), [Dan Lu](https://sites.google.com/site/danluecon/home). ***Job Market Paper***. [[PDF]](https://hanxi-wang-econ.github.io/trade_policy_BLW.pdf) [[NBER]](https://www.nber.org/papers/w34358) 
-
+- **Optimal Trade Policies and Market Power in General Equilibrium Trade Models**, with [Yan Bai](https://sites.google.com/site/yanbai06/home), [Dan Lu](https://sites.google.com/site/danluecon/home). [[PDF]](https://hanxi-wang-econ.github.io/trade_policy_BLW.pdf) [[NBER]](https://www.nber.org/papers/w34358) 
+    - ***Job Market Paper***, submitted
+    
     - <small>Presented at CUHK Economics Department Alumni Academic Conference 2025, Journal of International Economics Summer School Poster Session 2025, CHUK-Tsinghua Macroeconomic Workshop 2025</small>
 
     - <small><strong>Abstract:</strong> We derive optimal trade policies in a multi-country, multi-sector general-equilibrium model that unifies a wide range of supply-side assumptions. Under our CES supply system, which nests most existing specifications, two-country optimal tariffs and export taxes across sectors depend only on elasticity parameters and relative market shares. With multiple countries, country and sector interdependencies--due to the cross-country trade network--make optimal tariffs imposed by the home country differ across countries and sectors while converging within sectors. Only when foreign countries do not trade with each other do the home country's optimal policies depend solely on bilateral trade. Using trade data, we quantify optimal policies and find that ignoring interdependencies can lead to substantially lower welfare gains for the home country.</small>
