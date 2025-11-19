@@ -16,7 +16,7 @@
 
 #### Publications
 
-- **Optimal Trade Policy with International Technology Diffusion**, with [Yan Bai](https://sites.google.com/site/yanbai06/home), [Keyu Jin](https://www.keyujin.com/), [Dan Lu](https://sites.google.com/site/danluecon/home)(2025).  ***Journal of International Economics***. [[PDF]](https://hanxi-wang-econ.github.io/diffusion_main.pdf) [[Appendix]](https://hanxi-wang-econ.github.io/diffusion_appendix.pdf)
+- **Optimal Trade Policy with International Technology Diffusion**, with [Yan Bai](https://sites.google.com/site/yanbai06/home), [Keyu Jin](https://www.keyujin.com/), [Dan Lu](https://sites.google.com/site/danluecon/home) (2025).  ***Journal of International Economics***. [[PDF]](https://hanxi-wang-econ.github.io/diffusion_main.pdf) [[Appendix]](https://hanxi-wang-econ.github.io/diffusion_appendix.pdf)
 
     - <small>Presented at International Conference on US-China Trade Disputs and Rearchitecture in Globalization 2024, China International Conference in Macroeconomics 2024, CUHK Brownbag Seminar 2024</small>
 
@@ -28,7 +28,7 @@
 
 <br>
 
-- **When Protectionism Meets Global Value Chains: Evidence from China** (In Chinese), with [Xiaodong Lu](https://lingnan.sysu.edu.cn/faculty/LuXiaodong)(2025).  ***International Economics and Trade Research(国际经贸探索)***.
+- **When Protectionism Meets Global Value Chains: Evidence from China** (In Chinese), with [Xiaodong Lu](https://lingnan.sysu.edu.cn/faculty/LuXiaodong) (2025).  ***International Economics and Trade Research(国际经贸探索)***.
 
 
 
