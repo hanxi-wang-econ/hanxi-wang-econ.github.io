@@ -54,6 +54,19 @@ section .main-body{
     line-height: 2.0rem;
 }
 
+section .main-body a {
+    color: #181818;
+    text-decoration-color: #777;
+    text-underline-offset: 0.15em;
+    transition: color 0.15s ease, text-decoration-color 0.15s ease;
+}
+
+section .main-body a:hover,
+section .main-body a:focus {
+    color: #666;
+    text-decoration-color: #666;
+}
+
 
 .bg-gradient-primary-to-secondary-light {
     background: linear-gradient(45deg, #fcfcfc, #ffffff) !important;
