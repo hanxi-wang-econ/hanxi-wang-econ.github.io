@@ -1,7 +1,7 @@
 
 
-Welcome to my website! I am Hanxi Wang (王晗希), a Ph.D. candidate from [Department of Economics, The Chinese University of Hong Kong](https://www.econ.cuhk.edu.hk/en/home/).\
-I am on the 2025-26 academic job market.
+Welcome to my website! I am Hanxi Wang (王晗希), an Assistant Professor of Economics at [College of Business, Shanghai University of Finance and Economics](https://cob.sufe.edu.cn/en).\
+I received my Ph.D. in Economics from [Department of Economics, The Chinese University of Hong Kong](https://www.econ.cuhk.edu.hk/en/home/) in 2026.
 
 #### Education
 Ph.D., Economics, The Chinese University of Hong Kong, 2021—2026.\
@@ -12,8 +12,8 @@ International Trade, Optimal Trade Policy
 
 #### Contact
 
-Email: wanghanxi@link.cuhk.edu.hk\
-Address: 1017 Esther Lee Building, The Chinese University of Hong Kong, Shatin, Hong Kong
+Email: wanghanxi@mail.sufe.edu.cn, wanghanxi@link.cuhk.edu.hk\
+Address: Office 402, College of Business, Shanghai University of Finance and Economics, 100 Wuchuan Rd., Yangpu District, Shanghai, China
 
 Download my [[CV]](https://hanxi-wang-econ.github.io/Hanxi%20Wang_CV.pdf)
 
