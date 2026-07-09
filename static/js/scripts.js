@@ -2,10 +2,8 @@
 
 const content_dir = 'contents/'
 const config_file = 'config.yml'
-const section_names = ['home', 'publications', 'teaching']
-
-
 window.addEventListener('DOMContentLoaded', event => {
+    const section_names = (document.body.dataset.sections || 'home').split(',');
 
     // Activate Bootstrap scrollspy on the main nav element
     const mainNav = document.body.querySelector('#mainNav');
@@ -54,7 +52,8 @@ window.addEventListener('DOMContentLoaded', event => {
             .then(response => response.text())
             .then(markdown => {
                 const html = marked.parse(markdown);
-                document.getElementById(name + '-md').innerHTML = html;
+                const target = document.getElementById(name + '-md');
+                if (target) target.innerHTML = html;
             }).then(() => {
                 // MathJax
                 MathJax.typeset();
