@@ -13,6 +13,7 @@ International Trade, Optimal Trade Policy
 #### Contact
 
 Email: wanghanxi@mail.sufe.edu.cn, wanghanxi@link.cuhk.edu.hk\
+Tel: (021) 65907042
 Address: Office 402, College of Business, Shanghai University of Finance and Economics, 100 Wuchuan Rd., Yangpu District, Shanghai, China
 
 Download my [[CV]](https://hanxi-wang-econ.github.io/Hanxi%20Wang_CV.pdf)
