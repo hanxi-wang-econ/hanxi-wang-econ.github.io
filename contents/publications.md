@@ -2,7 +2,6 @@
 
 - **Optimal Trade Policies and Market Power in General Equilibrium Trade Models**, with [Yan Bai](https://sites.google.com/site/yanbai06/home), [Dan Lu](https://sites.google.com/site/danluecon/home). [[PDF]](https://hanxi-wang-econ.github.io/trade_policy_BLW1.pdf) [[NBER]](https://www.nber.org/papers/w34358) 
 
-    - ***Job Market Paper***, submitted
     
     - <small>Presented at CUHK Economics Department Alumni Academic Conference 2025, Journal of International Economics Summer School Poster Session 2025, CHUK-Tsinghua Macroeconomic Workshop 2025, Zhejiang University School of Economics 2025, Shanghai University of Finance and Economics College of Business 2025, CUHK-CUHKSZ Economics Summer School 2026</small>
 
