@@ -2,6 +2,8 @@
 
 - **Profits, Scale Economies, and the Gains from Trade and Industrial Policy: A Comment on Lashkaripour and Lugovskyy (2023)**, with [Yan Bai](https://sites.google.com/site/yanbai06/home), [Dan Lu](https://sites.google.com/site/danluecon/home).[[PDF]](https://www.dropbox.com/scl/fi/rr3x1klt7etafy8hku0xy/comment_2026oct_full.pdf?rlkey=tmm5w9dlpt5668p533wwwch6s&st=onqv6mo7&e=1&dl=0)
 
+<br>
+
 - **Optimal Trade Policies and Market Power in General Equilibrium Trade Models**, with [Yan Bai](https://sites.google.com/site/yanbai06/home), [Dan Lu](https://sites.google.com/site/danluecon/home). [[PDF]](https://hanxi-wang-econ.github.io/trade_policy_BLW1.pdf) [[NBER]](https://www.nber.org/papers/w34358) 
 
     
